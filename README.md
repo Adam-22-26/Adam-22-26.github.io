@@ -1,3 +1,7 @@
+title: FEEL FREE TO CHECKOUT MY REPO
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Adam-22-26/Adam-22-26.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
